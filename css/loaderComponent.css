@@ -1,0 +1,16 @@
+/*
+* Estilos para o componente Loader
+*/
+#loaderComponent {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	
+	/* Center without knowing the width/height */
+	width: 128px;
+	height: 128px;
+	margin: 0;
+	transform: translateX(-50%) translateY(-50%);
+
+	background-image: url("../img/loader.gif");
+}

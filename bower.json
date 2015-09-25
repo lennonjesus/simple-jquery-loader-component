@@ -1,0 +1,30 @@
+{
+  "name": "simple-jquery-loader-component",
+  "version": "0.0.1",
+  "authors": [
+    "Lennon Jesus <lennon.jesus@gmail.com>"
+  ],
+  "description": "A simple JQuery script to show an image indicating some slow process execution.",
+  "main": "loaderComponent.js",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "jquery",
+    "loader",
+    "ajax",
+    "component",
+    "spinner"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
